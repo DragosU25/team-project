@@ -1,0 +1,80 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M775.125 263.125h-149.333v-49.792c0-109.974-89.151-199.125-199.125-199.125s-199.125 89.151-199.125 199.125v0 49.792h-149.333c-27.466 0.024-49.725 22.283-49.749 49.747l-0 0.002v547.584c-0 82.475 66.859 149.333 149.333 149.333v0h497.749c82.475 0 149.333-66.859 149.333-149.333v0-547.584c-0.024-27.466-22.283-49.725-49.747-49.749l-0.002-0zM327.125 213.333c0-54.975 44.566-99.541 99.541-99.541s99.541 44.566 99.541 99.541v0 49.792h-199.083v-49.792zM725.333 860.459c0 27.476-22.274 49.749-49.749 49.749-0.015 0-0.030-0-0.045-0l-497.747 0c-27.484 0-49.768-22.268-49.792-49.747l-0-0.002v-497.792h99.541v49.792c0 27.499 22.293 49.792 49.792 49.792s49.792-22.293 49.792-49.792v0-49.792h199.083v49.792c0 27.499 22.293 49.792 49.792 49.792s49.792-22.293 49.792-49.792v0-49.792h99.541v497.792z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(174, 19, 50)"
+          }
+        ],
+        "width": 853,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "cart"
+        ],
+        "colorPermutations": {
+          "17419501255255255177902291": [
+            {
+              "f": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(174, 19, 50)"
+        }
+      ],
+      "properties": {
+        "order": 46,
+        "id": 4,
+        "name": "cart",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": false,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "toate",
+      "height": 32,
+      "columns": 16,
+      "margin": 16,
+      "minifyJs": true
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
