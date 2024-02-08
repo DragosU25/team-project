@@ -1,9 +1,39 @@
-
-.header{
-
-background-color: aqua;
+.container {
+    display: flex;
+    justify-content: space-between;
 }
 
-.box{
-    background-color: aqua;
+.nav-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-family: "DM Sans", sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.28571;
+letter-spacing: -0.04em;
+text-align: center;
+text-decoration: none;
+
+}
+
+.nav-list-item {
+    color:  #ae1332;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.logo-name {
+font-size: 14px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: -0.04em;
+text-align: center;
+color:  #ae1332;
+
 }
