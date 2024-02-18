@@ -1,2 +1,0 @@
-(()=>{const e={openModalBtn:document.querySelector("[data-menu-open]"),closeModalBtn:document.querySelector("[data-menu-close]"),modal:document.querySelector("[data-menu]")};e.openModalBtn.addEventListener("click",(function(){e.modal.style.visibility="visible"})),e.closeModalBtn.addEventListener("click",(function(){e.modal.style.visibility="hidden"}))})();
-//# sourceMappingURL=index.0dfcdb17.js.map
